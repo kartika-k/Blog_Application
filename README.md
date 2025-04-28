@@ -103,6 +103,8 @@ BlogHub follows a modern web application architecture with separate frontend and
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+```
+
 ![image](https://github.com/user-attachments/assets/a7be98ff-a423-4d38-9cb7-dd5462abef78)
 
 ![image](https://github.com/user-attachments/assets/ca3cc2f6-3e4a-4fa7-aa1d-b571b726cb22)
