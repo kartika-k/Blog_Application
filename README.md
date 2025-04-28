@@ -104,6 +104,7 @@ To set up the BlogHub application locally, follow these steps:
    5. Open a Pull Request
 
 ```
+```
 
 ![image](https://github.com/user-attachments/assets/a7be98ff-a423-4d38-9cb7-dd5462abef78)
 
