@@ -49,59 +49,59 @@ To set up the BlogHub application locally, follow these steps:
    http://localhost:3000
    ```
  ```
-
-## Architecture Overview
-
-BlogHub follows a modern web application architecture with separate frontend and backend components:
-
-### Frontend Architecture
-- Built with React.js using functional components and hooks
-- State management with Redux for global application state
-- React Router for client-side routing
-- Styling with CSS modules and some Tailwind CSS utilities
-- Responsive design for mobile and desktop views
-
-### Backend Architecture
-- Node.js with Express.js for the API server
-- MongoDB database with Mongoose ODM for data modeling
-- JWT (JSON Web Token) for authentication
-- RESTful API endpoints with proper error handling
-- MVC (Model-View-Controller) pattern for organizing code
-
-## Flow of the Application
-
-1. **User Authentication Flow**
-   - User registers or logs in through the authentication pages
-   - Backend validates credentials and issues a JWT token
-   - Frontend stores the token for authenticated requests
-   - Protected routes check for valid authentication
-
-2. **Content Creation Flow**
-   - Admins can create new blog posts
-   - Published posts become visible to all users
-
-3. **Content Consumption Flow**
-   - Homepage displays trending and recent posts
-
-5. **Data Flow**
-   - Frontend components request data via API calls
-   - Backend controllers handle requests and query the database
-   - Response data is formatted and returned to the frontend
-   - Frontend renders the data in the appropriate components
-
-## Technologies Used
-
-- **Frontend**: React.js, Redux, React Router, CSS Modules, Tailwind CSS
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose
-- **Authentication**: JWT, bcrypt
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+```
+   ## Architecture Overview
+   
+   BlogHub follows a modern web application architecture with separate frontend and backend components:
+   
+   ### Frontend Architecture
+   - Built with React.js using functional components and hooks
+   - State management with Redux for global application state
+   - React Router for client-side routing
+   - Styling with CSS modules and some Tailwind CSS utilities
+   - Responsive design for mobile and desktop views
+   
+   ### Backend Architecture
+   - Node.js with Express.js for the API server
+   - MongoDB database with Mongoose ODM for data modeling
+   - JWT (JSON Web Token) for authentication
+   - RESTful API endpoints with proper error handling
+   - MVC (Model-View-Controller) pattern for organizing code
+   
+   ## Flow of the Application
+   
+   1. **User Authentication Flow**
+      - User registers or logs in through the authentication pages
+      - Backend validates credentials and issues a JWT token
+      - Frontend stores the token for authenticated requests
+      - Protected routes check for valid authentication
+   
+   2. **Content Creation Flow**
+      - Admins can create new blog posts
+      - Published posts become visible to all users
+   
+   3. **Content Consumption Flow**
+      - Homepage displays trending and recent posts
+   
+   5. **Data Flow**
+      - Frontend components request data via API calls
+      - Backend controllers handle requests and query the database
+      - Response data is formatted and returned to the frontend
+      - Frontend renders the data in the appropriate components
+   
+   ## Technologies Used
+   
+   - **Frontend**: React.js, Redux, React Router, CSS Modules, Tailwind CSS
+   - **Backend**: Node.js, Express.js, MongoDB, Mongoose
+   - **Authentication**: JWT, bcrypt
+   
+   ## Contributing
+   
+   1. Fork the repository
+   2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+   3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+   4. Push to the branch (`git push origin feature/amazing-feature`)
+   5. Open a Pull Request
 
 ```
 
