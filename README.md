@@ -4,15 +4,6 @@
 
 BlogHub is a modern blogging platform where users can explore, share, and connect through creative content. This README provides instructions for setting up and running the application locally, along with an overview of the architecture and flow.
 
-## Table of Contents
-- [Installation](#installation)
-- [Running Locally](#running-locally)
-- [Architecture Overview](#architecture-overview)
-- [Flow of the Application](#flow-of-the-application)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 To set up the BlogHub application locally, follow these steps:
@@ -40,7 +31,6 @@ To set up the BlogHub application locally, follow these steps:
 
 4. Set up the database:
    - Make sure MongoDB is installed and running on your system
-   - The application will create necessary collections on first run
 
 ## Running Locally
 
@@ -58,11 +48,7 @@ To set up the BlogHub application locally, follow these steps:
    ```
    http://localhost:3000
    ```
-
-4. For testing:
-   ```bash
-   npm test
-   ```
+ ```
 
 ## Architecture Overview
 
