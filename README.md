@@ -10,7 +10,7 @@ To set up the BlogHub application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bloghub.git
+   https://github.com/kartika-k/Blog_Application.git
    cd bloghub
    ```
 
