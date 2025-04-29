@@ -114,3 +114,19 @@ To set up the BlogHub application locally, follow these steps:
 ![image](https://github.com/user-attachments/assets/3dec2e26-9800-4c63-86c8-d422d1524e44)
 
 ![image](https://github.com/user-attachments/assets/e795a35c-54ef-45b6-87e2-a4ad9b7f4436)
+
+# Admin Dashboard
+![image](https://github.com/user-attachments/assets/60250a4f-5082-4a7d-88cf-4262c3f1e3af)
+
+![image](https://github.com/user-attachments/assets/e7e9588f-5134-463b-8a20-575dd53562c1)
+
+![image](https://github.com/user-attachments/assets/8b18bce7-cdfb-4da4-ac1d-bf4949ffc3fd)
+
+# user profile
+![image](https://github.com/user-attachments/assets/aef2c09b-9341-4172-9efc-bce86fadda0d)
+
+# user can write comments
+![image](https://github.com/user-attachments/assets/842367e9-2755-477d-ae24-e4064dbff786)
+
+
+
